@@ -1,0 +1,6 @@
+learning_rate choice [1e-2, 5e-3, 1e-3, 1e-4]
+latent_dimension choice [100, 500, 1000]
+anneal_cap choice [1.]
+total_anneal_steps choice [5.E3, 1.E5]
+mlp_hidden_size choice ['[]', '[1000]']          # (list of int) The MLP hidden layer.
+

@@ -1,0 +1,2 @@
+learning_rate choice [1.e-2, 5.e-3] #, 1e-3]
+embedding_size choice [10, 100, 1000]
